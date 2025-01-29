@@ -10,7 +10,7 @@ keywords = ["proc-macro", "derive", "size", "struct"]
 repository = "https://github.com/simke9445/sized-data-derive"
 readme = "./README.md"
 homepage = "https://github.com/simke9445/sized-data-derive"
-categories = ["development-tools::macros", "development-tools::code-generation", "anchor", "solana", "svm"]
+categories = ["macros"]
 rust-version = "1.83.0"
 
 [lib]
