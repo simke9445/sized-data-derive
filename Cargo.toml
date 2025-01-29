@@ -1,7 +1,17 @@
 [package]
 name = "sized_data_derive"
 version = "0.1.0"
+authors = ["https://github.com/simke9445"]
+description = "Sized data macro implementation for use in Anchor framework."
+documentation = "https://docs.rs/sized-data-derive"
+license = "MIT"
 edition = "2021"
+keywords = ["proc-macro", "derive", "size", "struct"]
+repository = "https://github.com/simke9445/sized-data-derive"
+readme = "./README.md"
+homepage = "https://github.com/simke9445/sized-data-derive"
+categories = ["development-tools::macros", "development-tools::code-generation", "anchor", "solana", "svm"]
+rust-version = "1.83.0"
 
 [lib]
 proc-macro = true
