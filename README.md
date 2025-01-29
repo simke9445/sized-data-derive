@@ -43,7 +43,7 @@ This crate is typically used as a dependency of `sized-data`. Direct usage:
 
 ```toml
 [dependencies]
-sized_data_derive = "0.1.0"
+sized_data_derive = "0.1.1"
 ```
 
 ```rust

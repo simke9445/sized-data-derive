@@ -1,6 +1,6 @@
 [package]
 name = "sized_data_derive"
-version = "0.1.0"
+version = "0.1.1"
 authors = ["https://github.com/simke9445"]
 description = "Sized data macro implementation for use in Anchor framework."
 documentation = "https://docs.rs/sized-data-derive"
